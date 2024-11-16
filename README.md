@@ -1,6 +1,6 @@
 # Map
 
-
+###
 import socket, sys, random
 
 def banner():
